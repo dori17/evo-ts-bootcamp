@@ -1,0 +1,14 @@
+.controls__btn {
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color: #dda0dd;
+    background-color: #602960;
+    color: white;
+    margin-right: 20px;
+}
+
+.controls__btn:last-child{
+    margin-right: 0;
+}

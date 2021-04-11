@@ -1,0 +1,11 @@
+.bar-container {
+    height: 50vh;
+    background-color: bisque;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.bar-container__status {
+    margin-top: 20px;
+}

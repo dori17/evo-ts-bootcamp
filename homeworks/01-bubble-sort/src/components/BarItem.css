@@ -1,0 +1,7 @@
+.bar-container__item  {
+    background-color: #dda0dd;
+    border-radius: 5px;
+    width: 25px;
+    text-align: center;
+    border: 1px solid #411641;
+}
